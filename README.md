@@ -8,7 +8,7 @@
 # Features
 - Undo
 - Redo
-- Pencil
+- Doodle
 - Eraser
 - Brightness
 - Rotate
