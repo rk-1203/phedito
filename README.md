@@ -1,8 +1,9 @@
-# Phedito
+<h1 align="center">Phedito</h1>
+<p align="center">A lightweight and powerful image editor with efficient algorithm for optimized performance</p>
+<p align="center">
+    <img src="/assets/Phedito.png" alt="Phedito" />
+</p>
 
-![Graduation Mona](assets/Phedito.png)
-
-A lightweight and powerful image editor with efficient algorithm for optimized performance.
 
 # Features
 - Undo
